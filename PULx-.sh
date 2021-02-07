@@ -26,14 +26,14 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet PULx  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
 echo -b "VERSION   : V.3 " | lolcat
 echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
+echo -b "AUTHOR    : SAIPUL ANUWAR $green " |lolcat
+echo -b "TEAM      : POENG TEH CYBER TEAM $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
 echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> PULx On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+figlet PULx | lolcat
 sleep 1
 exit
 }
@@ -695,7 +695,7 @@ echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./TUANB4DUT=" pil;
+read -p "   ╰─root@./PULx=" pil;
 
 # Nmap
 
@@ -2984,11 +2984,11 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
+00) echo "AUTHOR: SAIPUL ANUWAR" | lolcat
+echo "PULx ON YOUR SYSTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet PULx | lolcat
 exit
 ;;
 
@@ -2997,5 +2997,5 @@ esac
 done
 done
 
-#[081221215191]
-#[GILANG]
+#[08816932290]
+#[SAIPUL]
